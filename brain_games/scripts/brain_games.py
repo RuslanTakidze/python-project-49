@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 def greet(where):
     print(f'Welcome to the {where}!')
 
