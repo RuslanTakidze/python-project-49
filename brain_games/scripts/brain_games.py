@@ -9,3 +9,7 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+from ..cli import *
+
+print(welcome_user())
